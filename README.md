@@ -1,1 +1,2 @@
-[ASMODTEditor Setup.zip](https://github.com/asmodteditor/x/files/6923669/ASMODTEditor.Setup.zip)
+[ASMODTEditor Setup.zip](https://github.com/asmodteditormc/x/files/6928424/ASMODTEditor.Setup.zip)
+
